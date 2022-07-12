@@ -1,8 +1,8 @@
-## Oiii eu sou o João Emmanuel, estudante de Engenharia de Software e um amante da tecnologia !
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Emmanuel+😎;I'm+17+years+old+🎉;I+from+Londrina,+PR+📆;I+study+Software+engineering+at+Unifil+💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
+</div>
   <a href="https://github.com/elmanuzin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elmanuzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmanuzin&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=elmanuzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmanuzin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
