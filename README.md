@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+João+Emmanuel+😎;I'm+20+years+old+🎉;Traffic+Manager+%7C+Cybersecurity+Enthusiast+🔐;From+Londrina,+PR+🇧🇷;Software+Engineering+Student+at+Unifil+💻;Welcome+to+my+GitHub+profile!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JOÃO+EMMANUEL;Software+Engineering+Student;Cybersecurity+Enthusiast;Traffic+Manager+%7C+Paid+Ads+Specialist;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/elmanuzin">
@@ -8,17 +8,17 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
-- 🎯 Traffic Manager (Paid Ads Specialist)  
-- 🔐 Cybersecurity enthusiast  
-- 💻 Software Engineering student at **Unifil**  
-- 📍 From **Londrina, Paraná - Brazil**  
-- 📚 Passionate about **technology, security and digital marketing**
+Software Engineering student at **Unifil**, passionate about technology, cybersecurity and digital systems.
+
+Currently working as a **Traffic Manager (Paid Ads Specialist)** while developing projects in software development and security.
+
+📍 Londrina, Paraná - Brazil
 
 ---
 
-# 🧠 Technologies & Tools
+# Technologies & Tools
 
 <div style="display: inline_block"><br>
 
@@ -40,7 +40,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -50,17 +50,9 @@
 
 ---
 
-# 🌎 Connect with me
+# Connect with me
 
 <div> 
-
-<a href="https://instagram.com/elmanuzin" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://discord.gg/gYgUgamY" target="_blank">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a> 
 
 <a href="mailto:joaoemmanuelbrl@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
@@ -69,6 +61,10 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-emmanuel-b90a3223b/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
+
+<a href="https://instagram.com/elmanuzin" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </div>
 
