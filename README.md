@@ -97,4 +97,4 @@ Focused on building **secure, scalable and efficient systems**.
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/elmanuzin/elmanuzin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/elmanuzin/elmanuzin/output/github-contribution-grid-snake.svg)
