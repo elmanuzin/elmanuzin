@@ -1,22 +1,18 @@
-<h1 align="center">JOÃO EMMANUEL</h1>
-
-<h3 align="center">
-Software Engineer • QA Engineer • Crypto & Security Enthusiast • Traffic Manager
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JOÃO+EMMANUEL;Software+Engineer;QA+Engineer;Crypto+%26+Cybersecurity+Enthusiast;Traffic+Manager;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 ---
 
-## Professional Experience
+# 🚀 Professional Profile
 
 Technology professional with experience across **software engineering, quality assurance, cybersecurity and digital infrastructure**.
 
-Currently working with **paid traffic management and digital growth strategies**, while developing projects related to:
+Currently working with **paid traffic management and digital growth strategies**, while building projects related to:
 
 • Software Engineering  
-• Quality Assurance (QA)  
-• Cybersecurity & Digital Security  
-• Crypto / Web3 technologies  
-• Backend development and automation  
+• QA Engineering  
+• Cybersecurity  
+• Crypto / Web3  
+• Backend automation  
 
 Focused on building **secure, scalable and efficient systems**.
 
@@ -24,7 +20,7 @@ Focused on building **secure, scalable and efficient systems**.
 
 ---
 
-## Tech Stack
+# 🧠 Tech Stack
 
 <p align="center">
 
@@ -34,7 +30,7 @@ Focused on building **secure, scalable and efficient systems**.
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -44,9 +40,15 @@ Focused on building **secure, scalable and efficient systems**.
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elmanuzin&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ---
 
-## Contact
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -66,6 +68,6 @@ Focused on building **secure, scalable and efficient systems**.
 
 ---
 
-## Contributions
+# 🐍 Contributions
 
-![snake gif](https://github.com/elmanuzin/elmanuzin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/elmanuzin/elmanuzin/blob/output/github-contribution-grid-snake.svg)
