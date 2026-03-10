@@ -1,73 +1,71 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+JOÃO+EMMANUEL;Software+Engineering+Student;Cybersecurity+Enthusiast;Traffic+Manager+%7C+Paid+Ads+Specialist;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+<h1 align="center">JOÃO EMMANUEL</h1>
 
-<div align="center">
-  <a href="https://github.com/elmanuzin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elmanuzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmanuzin&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<h3 align="center">
+Software Engineer • QA Engineer • Crypto & Security Enthusiast • Traffic Manager
+</h3>
 
 ---
 
-# About Me
+## Professional Experience
 
-Software Engineering student at **Unifil**, passionate about technology, cybersecurity and digital systems.
+Technology professional with experience across **software engineering, quality assurance, cybersecurity and digital infrastructure**.
 
-Currently working as a **Traffic Manager (Paid Ads Specialist)** while developing projects in software development and security.
+Currently working with **paid traffic management and digital growth strategies**, while developing projects related to:
 
-📍 Londrina, Paraná - Brazil
+• Software Engineering  
+• Quality Assurance (QA)  
+• Cybersecurity & Digital Security  
+• Crypto / Web3 technologies  
+• Backend development and automation  
 
----
+Focused on building **secure, scalable and efficient systems**.
 
-# Technologies & Tools
-
-<div style="display: inline_block"><br>
-
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-</div>
+📍 Londrina, Brazil
 
 ---
 
-# GitHub Stats
+## Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elmanuzin&theme=tokyonight&hide_border=false"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,nodejs,git,linux,docker" />
 
-</div>
+</p>
 
 ---
 
-# Connect with me
+## GitHub Stats
 
-<div> 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=elmanuzin&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmanuzin&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Contact
+
+<p align="center">
 
 <a href="mailto:joaoemmanuelbrl@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-emmanuel-b90a3223b/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-
-<a href="https://instagram.com/elmanuzin" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-emmanuel-b90a3223b/">
+<img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</div>
+<a href="https://instagram.com/elmanuzin">
+<img src="https://img.shields.io/badge/instagram-profile-pink?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
 
 ---
 
-![Snake animation](https://github.com/elmanuzin/elmanuzin/blob/output/github-contribution-grid-snake.svg)
+## Contributions
+
+![snake gif](https://github.com/elmanuzin/elmanuzin/blob/output/github-contribution-grid-snake.svg)
